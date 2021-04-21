@@ -25,7 +25,7 @@ Used for checking portrait names.
 
 This program relies on a specific spreadsheet format to run.
 
-Please ensure that the headers match the ones below:
+Please ensure that the headers roughly match the ones below:
 
    Student List: `[Preferred Surname][Preferred First][Status][Grade][Gender][Student No.][Legal Surname][Legal First][Legal Middle]`
    
